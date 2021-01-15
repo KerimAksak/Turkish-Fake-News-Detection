@@ -1,0 +1,5 @@
+date,user_id,user_screen_name,tweet,rt_count,like_count,label,speaker
+2020-12-18,XXX,XXX,"@XXX İçinde alkol, 🐷, alüminyum, cıva katkılı aşıların tümüne hayır. #asıyahayır",0,0,yalan-bilincsiz,user
+2020-12-18,XXX,XXX #hayatevesıgmaz,"RT @XXX: Bir Covid dini yarattılar. Hiçbir karşı tezi dinlemeyecek kadar dogmatik, bu dine mensup olmayanlara yaşam hakkı tanımayacak…",63,0,yalan-bilincsiz,user
+2020-12-18,XXX,Hepimiz XXX'ız,RT @XXX: Aşı bilinçli olarak toplu katliamdır! #asıolmayacağım #asıyahayır,2,0,yalan-bilincsiz,user
+...,...,...,...,...,...,...,...

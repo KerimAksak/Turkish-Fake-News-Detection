@@ -1,0 +1,5 @@
+date,user_id,user_screen_name,tweet,rt_count,like_count,label,speaker
+2020-12-18,XXX,XXX,Rusya'da 800 binden fazla kişiye aşı oldu. Ve herhangi bir yan etkiye rastlanmadı,0,0,dogru-bilincli,news
+2020-12-18,XXX,XXX,Almanya'da bir pilot Avrupa'da koronavirüse karşı aşılamanın başladığını anımsatmak ve halkı aşı konusunda bilinçlendirmek için gökyüzüne dev bir şırınga çizdi,0,0,dogru-bilincli,news
+2020-12-18,XXX,XXX,Bakan Koca: Yapılan anlaşmaya göre bu yıl için ayrılan depolarda hazır beklediğini Prof. Dr. Uğur Şahin hocamızın açıkladığı doz miktarı 550 bin dozdur,0,0,dogru-bilincli,news
+...,...,...,...,...,...,...,...
